@@ -1,3 +1,3 @@
 # Hello-world
 
-pruebas en pruebas->Dev con 2 cambios ya.
+pruebas en pruebas->Dev con 2 cambios.
