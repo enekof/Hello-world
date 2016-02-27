@@ -1,4 +1,4 @@
 # Hello-world
 
-Primer repositorio en github con el HEllo-world.
+Cambios en una rama como parte del tutotial de github.
 
