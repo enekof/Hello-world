@@ -1,4 +1,3 @@
 # Hello-world
 
-Ver los cambios desde una rama
-
+Cambios en una rama como parte del tutotial de github
